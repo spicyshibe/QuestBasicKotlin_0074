@@ -7,4 +7,5 @@
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 18 39 42" src="https://github.com/user-attachments/assets/3c9ca002-705a-468a-8645-ae214b6196a7" />
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 18 58 06" src="https://github.com/user-attachments/assets/efa74bc9-281b-4727-9c43-4bb933d74e29" />
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 06 22" src="https://github.com/user-attachments/assets/8479e718-352c-44f1-a988-8b3f7666fcdd" />
+<img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 09 38" src="https://github.com/user-attachments/assets/41dd08a3-6739-459e-8fdb-71009a4fc43f" />
 
