@@ -1,3 +1,4 @@
+<img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 13 02" src="https://github.com/user-attachments/assets/bb16a63b-f82a-43d8-8cc1-a9c0fead8d20" />
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 11 13" src="https://github.com/user-attachments/assets/ded5f2ee-b32e-4405-9947-07fe03cb5331" />
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 18 37 08" src="https://github.com/user-attachments/assets/04033f8b-e926-45ef-946e-dcb27910661c" /># QuestBasicKotlin_0074
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 18 33 42" src="https://github.com/user-attachments/assets/eede90ec-1925-46b4-bb73-3f3e9733de24" />
@@ -12,4 +13,5 @@
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 10 39" src="https://github.com/user-attachments/assets/c210914f-df1a-461e-b6bd-1586d18ae8b0" />
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 11 55" src="https://github.com/user-attachments/assets/4b6d3b8e-423d-4904-9bde-54b875522c55" />
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 12 38" src="https://github.com/user-attachments/assets/f2372047-3ff2-44a4-af05-62543ece71a9" />
+![Uploading Screenshot 2026-09-25 at 19.13.02.png…]()
 
