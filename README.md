@@ -15,4 +15,5 @@
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 12 38" src="https://github.com/user-attachments/assets/f2372047-3ff2-44a4-af05-62543ece71a9" />
 ![Uploading Screenshot 2026-09-25 at 19.13.02.png…]()
 <img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 16 19" src="https://github.com/user-attachments/assets/9ecd3d16-2477-43d1-9fc9-ef047d5d02d9" />
+<img width="2560" height="1440" alt="Screenshot 2026-09-25 at 19 26 53" src="https://github.com/user-attachments/assets/6da9fde1-ae57-4d03-93b7-5aa92ac5783a" />
 
